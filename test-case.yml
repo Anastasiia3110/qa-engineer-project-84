@@ -52,7 +52,7 @@ summary: |
     Тестовые данные
     
   steps:
-    - Установить флажок (checkbox) In Stock
+    - Установить флажок In Stock
   expected-result: |
     Отображаются только товары в наличии
 
