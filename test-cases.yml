@@ -22,6 +22,7 @@
   test-data: |
     Категория: fragrances
   steps:
+    - Открыть список категорий
     - Выбрать категорию "fragrances"
   expected-result: |
     Отображаются товары данной категории
