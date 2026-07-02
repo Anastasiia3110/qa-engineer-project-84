@@ -1,79 +1,79 @@
 ---
 - summary: |
     Проверка поиска товара по ключевому слову
-  status:
+  status: fail
 
 - summary: |
     Проверка поиска товаров по категории
-  status:
+  status: fail
 
 - summary: |
     Проверка перехода по хэштегу категории на странице товара
-  status:
+  status: fail
 
 - summary: |
     Проверка фильтрации товаров по производителю
-  status:
+  status: fail
 
 - summary: |
     Проверка фильтрации товаров по наличию
-  status:
+  status: fail
 
 - summary: |
     Проверка фильтрации товаров по цене
-  status:
+  status: fail
 
 - summary: |
     Проверка просмотра списка товаров с использованием постраничного вывода
-  status:
+  status: pass
 
 - summary: |
     Проверка навигации по страницам каталога
-  status: 
+  status: pass
 
 - summary: |
     Проверка просмотра подробной информации о товаре
-  status:
+  status: pass
 
 - summary: |
     Проверка добавления товара в корзину
-  status:
+  status: pass
 
 - summary: |
     Проверка добавления нескольких одинаковых товаров в корзину
-  status:
+  status: pass
 
 - summary: |
     Проверка добавления нескольких разных товаров в корзину
-  status:
+  status: pass
 
 - summary: |
     Проверка просмотра содержимого корзины
-  status:
+  status: pass
 
 - summary: |
     Проверка удаления товара из корзины
-  status:
+  status: pass
 
 - summary: |
     Проверка продолжения выбора товаров после добавления товара в корзину
-  status:
+  status: pass
 
 - summary: |
     Проверка перехода из корзины в каталог товара
-  status:
+  status: pass
 
 - summary: |
     Проверка оформления заказа
-  status:
+  status: fail
 
 - summary: |
     Проверка локализации переключения интерфейса на русском языке
-  status:
+  status: pass
 
 - summary: |
     Проверка локализации переключения интерфейса на английском языке
-  status:
+  status: pass
 
 - summary: |
     Проверка удобства использования сайта
