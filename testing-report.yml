@@ -77,56 +77,56 @@
 
 - summary: |
     Проверка удобства использования сайта
-  status:
+  status: pass
 
 - summary: |
     Проверка скорости работы сайта
-  status:
+  status: pass
 
 - summary: |
     Проверка безопасности сайта
-  status:
+  status: pass
 
 - summary: |
     Проверка успешного выполнения сетевых запросов приложения
-  status:
+  status: fail
 
 - summary: |
     Проверка адаптивной верстки и корректного отображения сайта на мобильном устройстве
-  status:
+  status: fail
 
 - summary: |
     Проверка работы приложения в режиме SPA
-  status:
+  status: pass
 
 - summary: |
     Проверка совместимости с последними версиями браузеров
-  status:
+  status: pass
 
 - summary: |
     Проверка локализации сайта на русском языке
-  status:
+  status: fail
 
 - summary: |
     Проверка локализации сайта на английском языке
-  status: 
+  status: pass
 
 - summary: |
     Проверка доступности сайта без использования VPN
-  status:
+  status: pass
 
 - summary: |
     Проверка отображения изображения товара
-  status:
+  status: pass
 
 - summary: |
     Проверка отображения сообщения при отсутствии результатов поиска
-  status:
+  status: pass
 
 - summary: |
     Проверка перерасчета общей стоимости корзины после добавления товара
-  status:
+  status: pass
 
 - summary: |
     Проверка перерасчета общей стоимости корзины после удаления товара
-  status:
+  status: pass
